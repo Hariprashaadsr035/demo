@@ -6,3 +6,4 @@ Author-email: hariprashaadsrofficial@gmail.com
 Requires: pandas
 Requires: numpy
 Requires: seaborn
+Requires: sklearn
